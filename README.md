@@ -1,7 +1,25 @@
-# Labe-Commerce - Projeto em Grupo (Giovana Santos | Mariana Abdias | Rammon Resende)
-## Camisetas com estampas divertidas relacionadas ao espaço;
+## 💻 PROJETO LABECOMMERCE
+A ideia central deste projeto é criar um e-commerce de itens espaciais.
+O produto escolhido para venda nesse e-commerce foi: 
+- Camisetas com estampas divertidas relacionadas ao espaço;
 
-### O que funciona:
+### 🎯 Requisitos:
+- Home
+    - Mostrando todos os produtos
+    - Deve haver alguma forma de ordenar os produtos por ordem crescente ou decrescente de preço (pode ser na home em si ou junto dos filtros)
+    - Produtos:
+        - Devem ter um botão que permita adicioná-los ao carrinho
+        - Devem exibir o nome, preço e imagem em um card
+- Carrinho
+    - Mostrar todos os produtos e quantidades adicionadas
+    - Capacidade de remover itens do carrinho
+    - Mostrar o valor total do carrinho
+- Filtro
+    - Por valor mínimo e máximo
+    - Por nome do produto
+
+
+### 📝 O que funciona
 - Home
     - Esta Mostrando todos os produtos;
     - Esta ordenando os produtos por ordem crescente ou decrescente de preço;
@@ -14,13 +32,27 @@
 - Filtro
     - É possível filtrar os produtos por valor mínimo e máximo;
     - É possível filtrar os produtos por nome do produto;
-    
-### O que não funciona:
-O site não está responsivo;
 
-## [Link do Surge para a LabeCommerce](https://impossible-cloth.surge.sh/)
 
-### Imagens
+### 🧪 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [React]
+- [Styled Components]
+
+
+### 🚀 Link Surge 
+Para acessar ao site do projeto clique no link abaixo:
+- [Link para acessar o Projeto](https://impossible-cloth.surge.sh/)
+
+
+### 🤝 Colaboradores
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+- Mariana Abdias
+- Giovana Santos
+- Rammon Resende
+
+
+### 🔖 Layout
 #### Página inicial
 ![image](https://user-images.githubusercontent.com/98291335/168392166-012132c4-cdf9-49ea-aacc-e6da6cc0d7fd.png)
 
@@ -41,4 +73,6 @@ O site não está responsivo;
 
 #### Remoção Carrinho
 ![image](https://user-images.githubusercontent.com/98291335/168392629-8c62807a-01f3-4b42-8450-4e7aec3518da.png)
+
+
 
